@@ -1,4 +1,4 @@
-Tried to get this up for someone else. (All the code is by Celina -W)
+Tried to get this up for someone else. (All the code is by [celina-w](github.com/celina-w))
 
 Anyway, it worked for them before I did this so it's moot point. But it's easier to use terminal.
 
