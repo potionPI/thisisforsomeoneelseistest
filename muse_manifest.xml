@@ -1,0 +1,380 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="celina-w.github.io/spiderwheel" resolutions="1x,2x" timestamp="1514601048811">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4199048700" ref="team:index:contact:process:product"/>
+    <file name="nomq_preview_master_a-master.css" crc="241627329" ref="team:index:contact:process:product"/>
+    <file name="team.css" crc="3800956901" ref="team"/>
+    <file name="nomq_team.css" crc="3761381109" ref="team"/>
+    <file name="iefonts_team.css" crc="3824530138" ref="team"/>
+    <file name="index.css" crc="4237624539" ref="index"/>
+    <file name="nomq_index.css" crc="4196861639" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="contact.css" crc="488284827" ref="contact"/>
+    <file name="nomq_contact.css" crc="138990358" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
+    <file name="process.css" crc="278316098" ref="process"/>
+    <file name="nomq_process.css" crc="88308043" ref="process"/>
+    <file name="iefonts_process.css" crc="3824530138" ref="process"/>
+    <file name="product.css" crc="139434999" ref="product"/>
+    <file name="nomq_product.css" crc="535098696" ref="product"/>
+    <file name="iefonts_product.css" crc="3824530138" ref="product"/>
+  </folder>
+  <folder name="assets">
+    <file name="spiderwheel-moving.mov" crc="4110938965" seo="true" mt="1514433979000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:product:contact:team:process"/>
+    <file name="museutils.js" crc="4216313831" ref="index:product:contact:team:process"/>
+    <file name="whatinput.js" crc="86476730" ref="index:product:contact:team:process"/>
+    <file name="museconfig.js" crc="474374037" ref="index:product:contact:team:process"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:product:contact:team:process"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:product:contact:team:process"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:product:contact:team:process"/>
+    <file name="webpro.js" crc="4143865194" ref="index:product:contact:team:process"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index:product:contact:team:process"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:product:team:process"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:product:contact:team:process"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:product:contact:team:process"/>
+    <file name="require.js" crc="3951022091" ref="index:product:contact:team:process"/>
+    <file name="form_check.php" crc="154010282" ref="contact"/>
+    <file name="form_throttle.php" crc="266437015" ref="contact"/>
+    <file name="form_process.php" crc="512629711" ref="contact"/>
+    <file name="form-u23286.php" crc="174453347" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="img_1048 blurred.jpg" crc="495258476" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1048 blurred_2x.jpg" crc="4157849217" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:product:contact:team:process"/>
+    <file name="logo.png" crc="84491051" ref="index:product:contact">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_2x.png" crc="391864896" ref="index:product:contact">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1048 blurred-u2583-fr.jpg" crc="3852695734" ref="index"/>
+    <file name="img_1048 blurred-u2583-fr_2x.jpg" crc="495239812" ref="index"/>
+    <file name="img_1048 blurred-u2583-fr2.jpg" crc="4071570043" ref="index"/>
+    <file name="img_1048 blurred-u2583-fr_2x2.jpg" crc="3895377606" ref="index"/>
+    <file name="img_1048 blurred-u2583-fr3.jpg" crc="63737028" ref="index"/>
+    <file name="img_1048 blurred-u2583-fr_2x3.jpg" crc="4004552172" ref="index"/>
+    <file name="img_1048 blurred-u2583-fr4.jpg" crc="3932182648" ref="index"/>
+    <file name="img_1048 blurred-u2583-fr_2x4.jpg" crc="89091160" ref="index"/>
+    <file name="img_1048 blurred-u2583-fr5.jpg" crc="366656492" ref="index"/>
+    <file name="img_1048 blurred-u2583-fr_2x5.jpg" crc="199973634" ref="index"/>
+    <file name="img_1048 blurred-u2583-fr6.jpg" crc="483332858" ref="index"/>
+    <file name="img_1048 blurred-u2583-fr_2x6.jpg" crc="337387082" ref="index"/>
+    <file name="img_8706.jpg" crc="3767459967" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="img_8706_2x.jpg" crc="4254708149" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="u14633-13.png" crc="4049553108" ref="product"/>
+    <file name="u14633-13_2x.png" crc="4232303582" ref="product"/>
+    <file name="zoom in gear.jpg" crc="4178491588" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="zoom in gear_2x.jpg" crc="407019978" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="zoom in gear2.jpg" crc="407019978" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="zoom in leg.jpg" crc="4066846770" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="zoom in leg423x539.jpg" crc="4227893026" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="zoom in leg423x539_2x.jpg" crc="3914176709" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="professional desk.jpg" crc="205937077" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="professional desk_2x.jpg" crc="4243903796" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="professional desk541x360.jpg" crc="3887941913" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="professional desk541x360_2x.jpg" crc="4292264006" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="playful desk.jpg" crc="4008962188" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="playful desk_2x.jpg" crc="196813507" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="playful desk540x360.jpg" crc="3947404861" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="playful desk540x360_2x.jpg" crc="30441886" seo="true" ref="product">
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="yellow print horizontal side view.jpg" crc="301785851" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="img_8706-u10475-fr.jpg" crc="268801321" ref="product"/>
+    <file name="img_8706-u10475-fr_2x.jpg" crc="178310743" ref="product"/>
+    <file name="u14633-132.png" crc="4049553108" ref="product"/>
+    <file name="u14633-13_2x2.png" crc="4232303582" ref="product"/>
+    <file name="professional desk-u15590-fr.jpg" crc="227971008" ref="product"/>
+    <file name="professional desk-u15590-fr_2x.jpg" crc="227718937" ref="product"/>
+    <file name="playful desk-u15632-fr.jpg" crc="42125136" ref="product"/>
+    <file name="playful desk-u15632-fr_2x.jpg" crc="42884219" ref="product"/>
+    <file name="img_8706-u10475-fr2.jpg" crc="3782766744" ref="product"/>
+    <file name="img_8706-u10475-fr_2x2.jpg" crc="4168731098" ref="product"/>
+    <file name="u14633-133.png" crc="4049553108" ref="product"/>
+    <file name="u14633-13_2x3.png" crc="4232303582" ref="product"/>
+    <file name="professional desk-u15590-fr2.jpg" crc="213060617" ref="product"/>
+    <file name="professional desk-u15590-fr_2x2.jpg" crc="299422227" ref="product"/>
+    <file name="playful desk-u15632-fr2.jpg" crc="111837194" ref="product"/>
+    <file name="playful desk-u15632-fr_2x2.jpg" crc="4118681778" ref="product"/>
+    <file name="yellow print horizontal side view2.jpg" crc="3775345818" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="yellow print horizontal side view_2x.jpg" crc="301785851" ref="product">
+      <caption webpage="product" alt=""/>
+    </file>
+    <file name="u14633-134.png" crc="4049553108" ref="product"/>
+    <file name="u14633-13_2x4.png" crc="4232303582" ref="product"/>
+    <file name="professional desk-u15590-fr3.jpg" crc="4198591986" ref="product"/>
+    <file name="professional desk-u15590-fr_2x3.jpg" crc="191600101" ref="product"/>
+    <file name="playful desk-u15632-fr3.jpg" crc="3943316578" ref="product"/>
+    <file name="playful desk-u15632-fr_2x3.jpg" crc="110311599" ref="product"/>
+    <file name="yellow print horizontal side view-u16212-fr.jpg" crc="403444958" ref="product"/>
+    <file name="yellow print horizontal side view-u16212-fr_2x.jpg" crc="425856115" ref="product"/>
+    <file name="u14633-135.png" crc="4049553108" ref="product"/>
+    <file name="u14633-13_2x5.png" crc="4232303582" ref="product"/>
+    <file name="zoom in gear-u14875-fr.jpg" crc="4096525035" ref="product"/>
+    <file name="zoom in gear-u14875-fr_2x.jpg" crc="4229451494" ref="product"/>
+    <file name="zoom in leg-u15332-fr.jpg" crc="4245187120" ref="product"/>
+    <file name="zoom in leg-u15332-fr_2x.jpg" crc="4026387743" ref="product"/>
+    <file name="professional desk-u15590-fr4.jpg" crc="497031285" ref="product"/>
+    <file name="professional desk-u15590-fr_2x4.jpg" crc="100298642" ref="product"/>
+    <file name="playful desk-u15632-fr4.jpg" crc="4059968046" ref="product"/>
+    <file name="playful desk-u15632-fr_2x4.jpg" crc="77273267" ref="product"/>
+    <file name="yellow print horizontal side view-u16212-fr2.jpg" crc="475322255" ref="product"/>
+    <file name="yellow print horizontal side view-u16212-fr_2x2.jpg" crc="384852542" ref="product"/>
+    <file name="playful desk-u23358-fr.jpg" crc="30441886" ref="contact"/>
+    <file name="playful desk-u23358-fr_2x.jpg" crc="3961963642" ref="contact"/>
+    <file name="team page banner.jpg" crc="4258064964" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="team page banner_2x.jpg" crc="497206129" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="team page banner-u20677-fr.jpg" crc="526364084" ref="team"/>
+    <file name="team page banner-u20677-fr_2x.jpg" crc="3776788579" ref="team"/>
+    <file name="yellow print side view.jpg" crc="3943862246" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="u17176-19.png" crc="503495320" ref="process"/>
+    <file name="u17176-19_2x.png" crc="3864043193" ref="process"/>
+    <file name="75- poster.jpg" crc="4090096516" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="pasted image 1799x1067-crop-u18983.jpg" crc="4232220503" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="pasted image 1799x1067-crop-u18983_2x.jpg" crc="3934925952" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="pasted image 440x382.jpg" crc="4170400219" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="combination sketch.jpg" crc="295696159" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="combination sketch_2x.jpg" crc="244377952" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="screen shot 2017-12-27 at 103816 pm.jpg" crc="140828535" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="sketches2.jpg" crc="40635282" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="full cad.jpg" crc="3878578648" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="legs cad.jpg" crc="4179465735" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="yellow print full view.jpg" crc="4013604074" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="yellow print full view_2x.jpg" crc="521104437" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="zoom in leg365x466.jpg" crc="475169882" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="zoom in leg365x466_2x.jpg" crc="4284622982" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_1039-crop-u19443.jpg" crc="220795032" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_1039-crop-u19443_2x.jpg" crc="156673240" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="u17176-192.png" crc="503495320" ref="process"/>
+    <file name="u17176-19_2x2.png" crc="3864043193" ref="process"/>
+    <file name="pasted image 1799x1067-crop-u189832.jpg" crc="4232220503" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="pasted image 1799x1067-crop-u18983_2x2.jpg" crc="3934925952" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_1039-crop-u194432.jpg" crc="220795032" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_1039-crop-u19443_2x2.jpg" crc="156673240" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="yellow print side view2.jpg" crc="104175457" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="yellow print side view_2x.jpg" crc="3943862246" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="u17176-193.png" crc="503495320" ref="process"/>
+    <file name="u17176-19_2x3.png" crc="3864043193" ref="process"/>
+    <file name="pasted image 1799x1067-crop-u189833.jpg" crc="4232220503" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="pasted image 1799x1067-crop-u18983_2x3.jpg" crc="3934925952" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_1039-crop-u194433.jpg" crc="220795032" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_1039-crop-u19443_2x3.jpg" crc="156673240" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="yellow print side view-u16988-fr.jpg" crc="364429991" ref="process"/>
+    <file name="yellow print side view-u16988-fr_2x.jpg" crc="464615443" ref="process"/>
+    <file name="u17176-194.png" crc="503495320" ref="process"/>
+    <file name="u17176-19_2x4.png" crc="3864043193" ref="process"/>
+    <file name="pasted image 1799x1067-crop-u189834.jpg" crc="4232220503" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="pasted image 1799x1067-crop-u18983_2x4.jpg" crc="3934925952" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_1039-crop-u194434.jpg" crc="220795032" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_1039-crop-u19443_2x4.jpg" crc="156673240" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="yellow print side view-u16988-fr2.jpg" crc="4084561194" ref="process"/>
+    <file name="yellow print side view-u16988-fr_2x2.jpg" crc="245815640" ref="process"/>
+    <file name="u17176-195.png" crc="503495320" ref="process"/>
+    <file name="u17176-19_2x5.png" crc="3864043193" ref="process"/>
+    <file name="pasted image 1799x1067-crop-u189835.jpg" crc="4232220503" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="pasted image 1799x1067-crop-u18983_2x5.jpg" crc="3934925952" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_1039-crop-u194435.jpg" crc="220795032" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_1039-crop-u19443_2x5.jpg" crc="156673240" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3783753760" seo="true" mt="1514594748730" redirect="true"/>
+  <file name="product.html" crc="62263687" seo="true" mt="1514599577456" redirect="true"/>
+  <file name="contact.html" crc="4194295708" seo="true" mt="1514599703786" redirect="true"/>
+  <file name="team.html" crc="4132724085" seo="true" mt="1514599579696" redirect="true"/>
+  <file name="process.html" crc="347853804" seo="true" mt="1514438386185" redirect="true"/>
+</manifest>
