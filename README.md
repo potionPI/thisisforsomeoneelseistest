@@ -22,7 +22,10 @@ Anyway, it worked for them before I did this so it's moot point. But it's easier
 14. remote add origin https://github.com/yourUser/repoName.git (or git remote set-url origin https://github.com/yourUser/repoName.git)
 15. git remote -v
 16. git push -u origin master
-17. Now use netlify to stuff everything onto your GitHub 
+17. Now use netlify to stuff everything onto your GitHub. This means every time you use git push -u origin master, it'll automatically update your Github. I think.
 18. When you update your site's folder on your computer...
-19. git add .
-20. git push -u origin master
+19. git add .  <— Do this for any insertions, deletions, or modifications
+20. git commit -m 'message about what happened'   <— Do this after the add .
+21. git push -u origin master <— Yay your repo is updated now
+
+**I *DON'T* know what most stuff is. For example what staging is. These instructions are ONLY for getting something mostly functional up.** 
